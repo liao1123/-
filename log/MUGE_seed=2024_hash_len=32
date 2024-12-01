@@ -1,0 +1,53 @@
+log_dir: log\MUGE_seed=2024_hash_len=32
+=============== MUGE--32 bitstrain hash--Total epochs:20 ===============
+...Training is beginning...
+img feature len:512 text feature len:512
+train text pair num : 127132
+test text pair num : 31783
+make dataset and dataloader successfully!!
+MLP_param: 4464704
+init end!!!
+Training Hash Fuction...
+epoch : 1, loss : 5.003560, lr : 0.001000
+test loss : 4.883507490158081
+epoch : 2, loss : 4.755923, lr : 0.001000
+test loss : 4.857002582550049
+epoch : 3, loss : 4.715131, lr : 0.001000
+test loss : 4.844720407485962
+epoch : 4, loss : 4.687746, lr : 0.001000
+test loss : 4.843214878082275
+epoch : 5, loss : 4.665591, lr : 0.001000
+test loss : 4.838227184295654
+epoch : 6, loss : 4.650045, lr : 0.001000
+test loss : 4.834510908126831
+epoch : 7, loss : 4.636051, lr : 0.001000
+test loss : 4.830957132339478
+epoch : 8, loss : 4.624190, lr : 0.001000
+test loss : 4.827780469894409
+epoch : 9, loss : 4.613749, lr : 0.001000
+test loss : 4.829477474212647
+epoch : 10, loss : 4.603843, lr : 0.001000
+test loss : 4.827613262176514
+epoch : 11, loss : 4.594595, lr : 0.001000
+test loss : 4.828788707733154
+epoch : 12, loss : 4.587387, lr : 0.001000
+test loss : 4.829482490539551
+epoch : 13, loss : 4.579913, lr : 0.001000
+test loss : 4.826033676147461
+epoch : 14, loss : 4.572659, lr : 0.001000
+test loss : 4.8287003803253175
+epoch : 15, loss : 4.566961, lr : 0.001000
+test loss : 4.826440647125244
+epoch : 16, loss : 4.561006, lr : 0.001000
+test loss : 4.827701597213745
+epoch : 17, loss : 4.555618, lr : 0.001000
+test loss : 4.829392156600952
+epoch : 18, loss : 4.550683, lr : 0.001000
+test loss : 4.831110223770142
+epoch : 19, loss : 4.546222, lr : 0.001000
+test loss : 4.830992559432984
+epoch : 20, loss : 4.540860, lr : 0.001000
+test loss : 4.830249231338501
+save MLP model dir: model_save/Flickr/vit-b-16\MUGE_hash_32_epoch_20.pt
+**********Save the hash model successfully.**********
+train total time:216.10966277122498

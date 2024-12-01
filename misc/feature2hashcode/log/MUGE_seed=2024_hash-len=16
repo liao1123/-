@@ -1,0 +1,4 @@
+log_dir: log\MUGE_seed=2024_hash-len=16
+=============== MUGE--real value--Total epochs:50 ===============
+...Training is beginning...
+total_param: 21133344
